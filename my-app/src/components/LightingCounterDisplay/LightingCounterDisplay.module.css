@@ -1,0 +1,10 @@
+.light {
+    width: 250px;
+    text-align: center;
+    background-color: black;
+    padding: 40px;
+    font-family: sans-serif;
+    color: #999;
+    border-radius: 10px;
+
+}
